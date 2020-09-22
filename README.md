@@ -2,7 +2,7 @@
 
 Live Link: https://cmoorelvt.github.io/Work-Day-Scheduler/
 
-The goal was to creat a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The goal was to create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## User Story
 
