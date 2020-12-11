@@ -29,6 +29,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
+## Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/68356470/93902476-93675100-fcc5-11ea-86f9-e2735036f663.png)
