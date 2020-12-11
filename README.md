@@ -1,4 +1,4 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Work Day Scheduler
 
 Live Link: https://cmoorelvt.github.io/Work-Day-Scheduler/
 
